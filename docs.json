@@ -1,0 +1,19 @@
+{
+  "title": "Emotio Documentation",
+  "description": "Official documentation for Emotio Technologies",
+  "rootDir": "./docs",
+  "outputDir": "./build",
+  "theme": "default",
+  "sidebar": {
+    "show": true,
+    "items": [
+      { "label": "Introduction", "link": "/intro" },
+      { "label": "Getting Started", "link": "/getting-started" },
+      { "label": "API Reference", "link": "/api" }
+    ]
+  },
+  "search": {
+    "enabled": true,
+    "provider": "local"
+  }
+}
